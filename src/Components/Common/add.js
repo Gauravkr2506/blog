@@ -19,8 +19,8 @@ export default class Add extends Component {
         <ins
           className="adsbygoogle"
           style={{ display: "block" }}
-          data-ad-client="ca-pub-23452425"
-          data-ad-slot="24524524"
+          data-ad-client="ca-pub-9969212413329273"
+          data-ad-slot="6306117942"
           data-ad-format="auto"
         ></ins>
       </div>
