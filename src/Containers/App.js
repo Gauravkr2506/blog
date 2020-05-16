@@ -14,14 +14,14 @@ function App() {
           <div
             style={{ width: "80%", float: "left", backgroundColor: "#851f00" }}
           >
-            dddddd
+            aaaaa
           </div>
           <div
             style={{
               width: "20%",
               height: "100%",
               float: "left",
-              backgroundColor: "#ff8c00",
+              backgroundColor: "#b2b299",
             }}
           >
             <Add />
