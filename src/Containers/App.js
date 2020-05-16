@@ -14,7 +14,7 @@ function App() {
         <div style={{ margin: 10 }}>
           <div
             style={{
-              width: "78%",
+              width: "68%",
               float: "left",
               color: "#33331f",
               display: "block",
@@ -30,7 +30,7 @@ function App() {
               width: "20%",
               height: "100%",
               float: "left",
-              backgroundColor: "#b2b299",
+              // backgroundColor: "#b2b299",
             }}
           >
             <Add />
