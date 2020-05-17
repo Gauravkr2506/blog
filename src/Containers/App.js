@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div style={{ backgroundColor: "#ff6600", margin: 10 }}>
-          <h1 style={{ marginLeft: 10, color: "#472e00" }}>Hindi Vyang</h1>
+        <div style={{ backgroundColor: "#ffff99", margin: 10 }}>
+          <h1 style={{ marginLeft: 10 }}>Hindi Vyang</h1>
         </div>
         <div style={{ margin: 10 }}>
           <div
