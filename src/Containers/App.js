@@ -30,7 +30,7 @@ function App() {
               width: "20%",
               // height: "100%",
               float: "left",
-              // backgroundColor: "#eaeaea",
+              backgroundColor: "#eaeaea",
             }}
           >
             <Add />
