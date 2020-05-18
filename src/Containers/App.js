@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div style={{ backgroundColor: "#ffff99", margin: 10 }}>
+        <div style={{ backgroundColor: "#eaeaea", margin: 10 }}>
           <h1 style={{ marginLeft: 10 }}>Hindi Vyang</h1>
         </div>
         <div style={{ margin: 10 }}>
@@ -28,9 +28,9 @@ function App() {
           <div
             style={{
               width: "20%",
-              height: "100%",
+              // height: "100%",
               float: "left",
-              // backgroundColor: "#b2b299",
+              // backgroundColor: "#eaeaea",
             }}
           >
             <Add />
